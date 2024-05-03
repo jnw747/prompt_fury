@@ -11,7 +11,7 @@ meow
 Use PyPDF2
 ```
 
-```
+```mermaid
 sequenceDiagram
 Alice->>John: Hello John, how are you?
 loop HealthCheck
